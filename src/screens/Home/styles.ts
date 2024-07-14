@@ -45,5 +45,6 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "space-between",
     marginTop: 32,
+    marginBottom: 20,
   },
 });
